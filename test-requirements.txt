@@ -7,3 +7,4 @@ mock
 django-jsonview
 requests
 dj-database-url
+django>=4.2.16 # not directly required, pinned by Snyk to avoid a vulnerability
